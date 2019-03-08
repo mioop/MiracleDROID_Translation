@@ -194,15 +194,13 @@
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
 
-    <!-- Ambient music -->
     <string name="ambient_display_category">Ambient display options</string>
-    <string name="force_ambient_for_media_pref_title">Now playing</string>
-    <string name="force_ambient_for_media_pref_summary">Show current music track information</string>
-    <string name="ambient_ticker_footer">This feature allows for the ability to show the current music track info on the lockscreen with or without Ambient display enabled.\n\nYou can select from two layouts, normal and minimal. While this feature takes advantage of ambient display, it does not depend on it. It can be triggered without having ambient display enabled by using the (forced) options.\n\nNormal view includes the lockscreen clock, date and music information.\n\nMinimal view includes just the music information at the center of the screen.</string>
+    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
+    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
+    <string name="ambient_ticker_footer">This feature shows the current music track info within an Ambient display screen.\n\nIt can be triggered without having ambient display enabled by using the (forced) option.\n\nNormal view includes the lockscreen clock, date and ticker.\n\nMinimal view includes just the ticker at the center of the screen.\n\nYou can double tap on track info to skip track.</string>
     <string name="force_ambient_for_media_title">Select layout</string>
     <string name="force_ambient_for_media_off">Disabled</string>
     <string name="force_ambient_for_media_on">Normal</string>
-    <string name="force_ambient_for_media_on_forced">Normal (forced)</string>
     <string name="force_ambient_for_media_on_forced_clean">Minimal (forced)</string>
 
     <!-- Style -->
@@ -226,6 +224,13 @@
     <string name="style_restart_summary">Restart SystemUI if the applied style causes issues</string>
     <string name="theme_applied_toast">Theme applied.</string>
     <string name="applying_theme_toast">Applying theme, please wait...</string>
+
+    <!-- Notification styles -->
+    <string name="notification_style_title">Notification color</string>
+    <string name="notification_auto">Automatic (Theme based)</string>
+    <string name="notification_light">Light</string>
+    <string name="notification_dark">Dark</string>
+    <string name="notification_black">Black</string>
 
     <!-- QS rows and columns -->
     <string name="qs_rows_columns_title">QS rows and columns</string>
@@ -328,8 +333,12 @@
     <string name="brightness_icon_summary">Show a brightness icon to the right of the brighness slider to adjust autobrightness</string>
 
     <!-- Lockscreen visualizer -->
-    <string name="lockscreen_visualizer_title">Lockscreen visualizer</string>
-    <string name="lockscreen_visualizer_summary">Displays a live design on lockscreen while music is playing</string>
+    <string name="lockscreen_visualizer_category">Visualizer</string>
+    <string name="lockscreen_visualizer_enable">Enable lockscreen visualizer</string>
+    <string name="lockscreen_visualizer_enable_summary">Show visualizer on lockscreen when music is playing</string>
+    <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
+    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
 
     <!-- Suspend actions -->
     <string name="screen_state_toggles_title">Suspend actions</string>
@@ -630,6 +639,34 @@
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
     <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+
+    <string name="max_ring_volume_in_pocket_title">Maximum ring volume in pocket</string>
+    <string name="max_ring_volume_in_pocket_summary">Increase ringtone volume to maximum level when device is in pocket</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">by default</string>
+    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <string name="pref_longpress_delay_title">Longpress delay</string>
+    <string name="pref_longpress_delay_250">250 ms</string>
+    <string name="pref_longpress_delay_500">500 ms</string>
+    <string name="pref_longpress_delay_750">750 ms</string>
+    <string name="pref_longpress_delay_1000">1000 ms</string>
+    <string name="pref_longpress_delay_1250">1250 ms</string>
+    <string name="pref_longpress_delay_1500">1500 ms</string>
+    <string name="pref_longpress_delay_1750">1750 ms</string>
+    <string name="pref_longpress_delay_2000">2000 ms</string>
+
+    <string name="dialog_reboot_required">Reboot required</string>
+    <string name="dialog_reboot_required_summary">A reboot is required for the changes to take effect!</string>
+    <string name="reboot_now">Reboot now</string>
+    <string name="reboot_later">Reboot later</string>
+
+    <!-- QS Tile Theme/Tinting -->
+    <string name="qs_tile_theme_title">QS Tile Accents</string>
+    <string name="qs_tile_theme_summary">It will enable Device Accent on QS Tiles n Titles</string>
 
 </resources>
 

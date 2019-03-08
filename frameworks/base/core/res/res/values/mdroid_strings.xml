@@ -45,6 +45,7 @@
     <string name="accent_orange">Orange</string>
     <string name="accent_orange_deep">Deep Orange</string>
     <string name="accent_pink">Pink</string>
+    <string name="accent_pixel">Pixel</string>
     <string name="accent_purple">Purple</string>
     <string name="accent_purple_deep">Deep Purple</string>
     <string name="accent_red">Red</string>
@@ -172,5 +173,9 @@
     <string name="profileNameSilent">Silent</string>
     <string name="profileNameNight">Night</string>
     <string name="profileNameAutomobile">Automobile</string>
+
+    <!-- SystemUI Restart -->
+    <string name="systemui_restart_title">SystemUI restart required</string>
+    <string name="systemui_restart_message">For all changes to take effect, a SystemUI restart is required. Restart SystemUI now?</string>
 
 </resources>
