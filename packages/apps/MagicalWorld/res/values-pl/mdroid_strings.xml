@@ -573,4 +573,7 @@
     <!-- QS Tile Theme/Tinting -->
     <string name="qs_tile_theme_title">Akcent kafelków szybkich ustawień</string>
     <string name="qs_tile_theme_summary">Umożliwi to zastosowanie akcentu urządzenia w kafelkach szybkich ustawień</string>
+    <string name="enable_home_key_when_ringing_title">Włącz klawisz Home podczas dzwonienia</string>
+    <string name="enable_home_key_when_ringing_summary">Zezwól na użycie klawisza Home, podczas połączenia przychodzącego</string>
+     
 </resources>
