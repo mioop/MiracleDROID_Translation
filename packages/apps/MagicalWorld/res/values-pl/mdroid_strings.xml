@@ -575,5 +575,42 @@
     <string name="qs_tile_theme_summary">Umożliwi to zastosowanie akcentu urządzenia w kafelkach szybkich ustawień</string>
     <string name="enable_home_key_when_ringing_title">Włącz klawisz Home podczas dzwonienia</string>
     <string name="enable_home_key_when_ringing_summary">Zezwól na użycie klawisza Home, podczas połączenia przychodzącego</string>
-     
+     <!-- XOSP Blur personalizations -->
+    <string name="settings_blur_cat">Dostosowywanie rozmyć</string>
+    <string name="settings_blur_sum">Ustawienia rozmycia dla UI systemu</string>
+    <string name="blurred_status_bar_expanded_enabled_pref">Rozmyj tło paska stanu</string>
+    <string name="blurred_status_bar_expanded_enabled_pref_summary">Rozmyj tło rozwiniętego panelu powiadomień</string>
+    <string name="translucent_notifications_pref">Przeźroczyste powiadomienia</string>
+    <string name="translucent_notifications_pref_summary">Ustaw przeźroczyste tło powiadomień</string>
+    <string name="translucent_quick_settings_pref">Przeźroczysty rozwinięty pasek stanu</string>
+    <string name="translucent_quick_settings_pref_summary">Spraw, by tło panelu szybkich ustawień stało się przeźroczyste</string>
+    <string name="transluency_level_universal">Stopień przeźroczystości</string>
+    <string name="blurred_recent_app_enabled_pref">Rozmyte tło panelu ostatnich aplikacji</string>
+    <string name="blurred_recent_app_enabled_pref_summary">Spraw, by tło panelu ostatnich aplikacji stało się przeźroczyste</string>
+    <string name="blur_light_color">Filtr obrazu o barwach jasnych</string>
+    <string name="blur_dark_color">blur_dark_color</string>
+    <string name="blur_mixed_color">Filtr obrazu o barwach mieszanych</string>
+    <string name="blur_notice">O funkcji rozmyć</string>
+    <string name="blur_notice_summary">Na ekranie blokady wszystkie rozmycia są wyłączone! Dostępne są tylko przezroczyste powiadomienia!</string>
+    <string name="blur_colors_notice">Co robią te kolory?</string>
+    <string name="blur_colors_notice_summary">Te kolory służą do barwienia rozmytych teł. Zamiast normalnych szarości, można teraz wybrać dowolny kolor.\nSą dostępne trzy filtry kolorów: jeden dla jasnego tła, inny dla ciemnego i ostatni dla tła mieszanego.\nZatem jak działają te kolory?\nJest to proste, tak jak mówią tytuły, filtr jasnego jest używany do jasnego tła, filtr ciemnego dla ciemnego, a filtr mieszany dla tła nie za ciemnego, ale też nie za bardzo jasnego.\nTe kolory są używane dla rozmycia tła w pasku stanu oraz panelu ostatnich aplikacji </string>
+    <string name="blur_expstatus_cat">Rozszerzony pasek stanu </string>
+    <string name="blur_notifications_cat">Powiadomienia</string>
+    <string name="blur_qs_cat">Szybkie ustawienia</string>
+    <string name="blur_recents_cat">Panel ostatnich aplikacji</string>
+    <string name="blur_colors_cat">Filtry rozmycia koloru</string>
+    <string name="blur_notices_cat">Uwagi</string>
+    <string name="blurred_scale">Stopień rozmycia</string>
+    <string name="blurred_scale_summary">Jakość rozmytego obrazu</string>
+    <string name="blurred_radius">Promień rozmycia</string>
+    <string name="blurred_radius_summary">Ilość rozmycia</string>
+    <string name="blur_cat_notice">Uwaga</string>
+    <string name="blur_cat_notice_summary">Wszystkie rozmycia są wyłączone na ekranie blokady! Dostępne są tylko przezroczyste powiadomienia!</string>
+    <string name="reset_message">Czy zresetować wszystkie ustawenia do wartości domyślnych?</string>
+    <!-- Notification count -->
+    <string name="status_bar_notif_count_title">Pokaż liczbę powiadomień</string>
+    <string name="status_bar_notif_count_summary">Wyświetla licznik oczekujących powiadomień</string>
+    <string name="hall_sensor_enabled_title">Czujnik Halla</string>
+    <string name="hall_sensor_enabled_summary">Włącz czujnik Halla, dla etuii z klapką zakrywającą ekran</string>
+
 </resources>
