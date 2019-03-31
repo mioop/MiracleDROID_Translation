@@ -25,7 +25,7 @@
     <string name="quicksettings_title">Quick Settings</string>
     <string name="gesture_category">Gestures</string>
     <string name="device_part_title">Device features</string>
- 
+
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">Statusbar items</string>
 
@@ -34,7 +34,7 @@
     <string name="reset">Reset</string>
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
-  
+
     <!-- Recents panel settings -->
     <string name="show_clear_all_recents_button_title">Clear all button</string>
     <string name="show_clear_all_recents_button_summary">Show clear all button</string>
@@ -59,7 +59,7 @@
     <string name="hide_apps_from_recents_title">Hidden apps</string>
     <string name="hide_from_recents_add_app">Add App</string>
     <string name="hide_apps_from_recents_summary">Pick which apps to exclude from the recents panel</string>
-   
+
      <!-- Global Actions -->
     <string name="global_actions_title">Power menu</string>
     <string name="global_actions_summary">Select what to show when you press the power button</string>
@@ -73,7 +73,7 @@
     <string name="global_actions_flashlight">Flashlight</string>
     <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">When restarting also show options for recovery and bootloader</string>
-    
+
     <!-- tap-to-sleep -->
     <string name="double_tap_status_bar_sleep_title">Double tap statusbar to sleep</string>
     <string name="double_tap_status_bar_sleep_summary">Double tap status bar to put the device to sleep</string>
@@ -115,6 +115,9 @@
     <string name="clock_date_style_lowercase">Lowercase</string>
     <string name="clock_date_style_uppercase">Uppercase</string>
     <string name="clock_date_format_custom">Custom java format</string>
+		<string name="clock_date_right">Right of time</string>
+		<string name="clock_date_left">Left of time</string>
+		<string name="clock_date_position">Date position</string>
     <string name="menu_cancel">Cancel</string>
 
     <string name="face_auto_unlock_title">Face auto unlock</string>
@@ -712,5 +715,3 @@
     <string name="hall_sensor_enabled_summary">Enable HALL Sensor</string>
 
 </resources>
-
-

@@ -104,6 +104,9 @@
     <string name="clock_date_style_lowercase">Małe litery</string>
     <string name="clock_date_style_uppercase">Duże litery</string>
     <string name="clock_date_format_custom">Niestandardowy format Java</string>
+    <string name="clock_date_right">Z lewej strony</string>
+    <string name="clock_date_left">Z prawej strony </string>
+    <string name="clock_date_position">Pozycja wyświetlania daty</string>
     <string name="menu_cancel">Anuluj</string>
     <string name="face_auto_unlock_title">Odblokuj automatycznie twarzą</string>
     <string name="face_auto_unlock_summary">Nie pokazuj ekrany blokady po odblokowaniu twarzą</string>
