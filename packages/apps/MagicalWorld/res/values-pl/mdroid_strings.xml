@@ -207,6 +207,15 @@
     <string name="notification_light">Jasny</string>
     <string name="notification_dark">Ciemny</string>
     <string name="notification_black">Czarny</string>
+
+    <!-- QS tile styles -->
+    <string name="qs_tile_style_title">Styl przełączników szybkich ustawień</string>
+    <string name="qstile_default">Domyślny</string>
+    <string name="qstile_circle">Okrągłe</string>
+    <string name="qstile_circle_trim">Okrągłe z wykończeniem</string>
+    <string name="qstile_dual_tone_circle">Dwukolorowy okrąg</string>
+    <string name="qstile_squircle_trim">Kwadratowe z wykończeniem</string>
+
     <!-- QS rows and columns -->
     <string name="qs_rows_columns_title">Kolumny i wiersze szybkich ustawień</string>
     <string name="qs_rows_portrait_title">Ilość rzędów w pionie</string>
