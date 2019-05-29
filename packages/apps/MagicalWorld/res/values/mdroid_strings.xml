@@ -756,6 +756,11 @@
     <string name="default_string">Stock</string>
     <string name="slim_recents_hints_footer">To clear all apps, pinch-in with two fingers on the panel. To block an app from being cleared, long press on its icon to star it.\n\nFor additional recents features such as multiwindow or to kill an app, long press on any app window in the panel.</string>
 
+    <string name="slim_recents_mem_display_color">Memory bar color</string>
+    <string name="slim_recents_mem_display_text_color">Memory bar text color</string>
+    <string name="slim_recents_mem_display_long_click_clear_title">Memory bar longpress</string>
+    <string name="slim_recents_mem_display_long_click_clear_summary">Clear recents by long-pressing the memory bar</string>
+
     <string name="aosp_recents_title">AOSP recents</string>
 
     <string name="long_press_power_torch_delay_title">Longpress delay to toggle torch</string>
@@ -793,5 +798,35 @@
     <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
     <string name="hide_lockscreen_alarm_title">Alarm text</string>
     <string name="hide_lockscreen_alarm_summary">Change the alarm text\'s visibility underneath the clock widget</string>
+
+    <!-- Switch styles -->
+    <string name="switch_style_title">Switch appearance</string>
+    <string name="switch_default">Default</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_telegram">Telegram</string>
+
+    <string name="theme_auto_mode_title">Schedule</string>
+    <string name="theme_auto_mode_custom">Turns on at custom time</string>
+    <string name="theme_auto_mode_twilight">Turns on from sunset to sunrise</string>
+    <string name="theme_start_time_title">Start time</string>
+    <string name="theme_end_time_title">End time</string>
+
+    <!-- Adaptive icon shape -->
+    <string name="icon_shape_title">App icon shape</string>
+    <string name="icon_shape_system_default">System default</string>
+    <string name="icon_shape_square">Square</string>
+    <string name="icon_shape_rounded_square">Rounded square</string>
+    <string name="icon_shape_squircle">Squircle</string>
+    <string name="icon_shape_circle">Circle</string>
+    <string name="icon_shape_teardrop">Teardrop</string>
+    <string name="icon_shape_hexagon">Hexagon</string>
+    <string name="icon_shape_changed_title">Update icon shape</string>
+    <string name="icon_shape_changed_message">Changing the icon shape will only affect new started apps. Thus, it is recommended to reboot your device to fully apply this setting. If some apps still use the old shape after that, try clearing their app cache.</string>
+
+    <string name="reboot_dialog_ok">Reboot</string>
+    <string name="reboot_dialog_cancel">@string/cancel</string>
+    <string name="soft_reboot_title">Rebooting</string>
+    <string name="soft_reboot_message">Soft reboot is in progress, please be patient</string>
 
 </resources>
