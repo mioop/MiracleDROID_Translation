@@ -272,7 +272,7 @@
     <string name="accessibility_quick_settings_gaming_mode_off">Tryb gier wył.</string>
 
     <!-- Font Tile -->
-<string name="quick_settings_font_label">Czcionka</string>
-<string name="quick_settings_font_detail_label">Wybierz czcionkę</string>
+    <string name="quick_settings_font_label">Czcionka</string>
+    <string name="quick_settings_font_detail_label">Wybierz czcionkę</string>
 
 </resources>
