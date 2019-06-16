@@ -447,6 +447,7 @@
     <string name="network_traffic_units_megabits">Megabity na sekundę (Mb/s)</string>
     <string name="network_traffic_units_kilobytes">Kilobajty na sekundę (kB/s)</string>
     <string name="network_traffic_units_megabytes">Megabajty na sekundę (MB/s)</string>
+    <string name="network_traffic_units_auto">Auto (B/s, KB/s, MB/s, GB/s)</string>
     <string name="network_traffic_show_units">Pokaż jednostki</string>
     <string name="network_traffic_show_units_summary">Określa, czy wyświetlać jednostki pomiaru ruchu sieciowego na pasku stanu</string>
     <!-- Notification guts kill app button -->
@@ -729,7 +730,7 @@
     <string name="icon_shape_changed_message">Zmiana kształtu ikon wpłynie tylko na nowo uruchomione aplikacje. Dlatego zaleca się ponowne uruchomienie urządzenia, aby w pełni zastosować zmianę kształtu ikon. Jeśli niektóre aplikacje nadal używają starego kształtu, spróbuj wyczyścić pamięć podręczną aplikacji.</string>
 
     <string name="reboot_dialog_ok">Uruchom ponownie</string>
-    <string name="reboot_dialog_cancel">@string/anuluj</string>
+    <string name="reboot_dialog_cancel">@string/cancel</string>
     <string name="soft_reboot_title">Uruchamianie ponownie</string>
     <string name="soft_reboot_message">Trwa miękki restart, proszę o cierpliwość</string>
 

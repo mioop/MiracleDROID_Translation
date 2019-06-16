@@ -397,7 +397,11 @@
 
     <!-- Disable QS on secure Lockscreen -->
     <string name="lockscreen_qs_disabled_title">No QS when secured</string>
-    <string name="lockscreen_qs_disabled_summary">Disable quick settings tiles on secured lockscreen. This will also disable lockscreen shortcuts.</string>
+    <string name="lockscreen_qs_disabled_summary">Disable quick settings tiles on secured lockscreen.</string>
+
+    <!-- Hide Lockscreen shortcuts on secure Lockscreen -->
+    <string name="lockscreen_hide_shortcuts_title">Hide Bottom Shortcuts</string>
+    <string name="lockscreen_hide_shortcuts_summary">Hide Left-Right Shortcuts on secure lock screens</string>
 
     <string name="units_ms">" ms"</string>
 
@@ -515,6 +519,7 @@
     <string name="network_traffic_units_megabits">Megabits per second (Mb/s)</string>
     <string name="network_traffic_units_kilobytes">Kilobytes per second (kB/s)</string>
     <string name="network_traffic_units_megabytes">Megabytes per second (MB/s)</string>
+    <string name="network_traffic_units_auto">Auto (B/s, KB/s, MB/s, GB/s)</string>
     <string name="network_traffic_show_units">Show units</string>
     <string name="network_traffic_show_units_summary">Whether to show traffic measurement units in the statusbar</string>
 
